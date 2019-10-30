@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<!--
+Template Name: Chevesic
+Author: <a href="https://www.os-templates.com/">OS Templates</a>
+Author URI: https://www.os-templates.com/
+Licence: Free to use under our free template licence terms
+Licence URI: https://www.os-templates.com/template-terms
+-->
+<html lang="">
+<!-- To declare your language - read more here: https://www.w3.org/International/questions/qa-html-language-declarations -->
+<head>
+<title>Jai JagaNNath</title>
+    <link rel="shortcut icon" type="image/x-icon" href="../Puri/images/demo/gallery/omm.png"/>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<link href="layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
+</head>
+<body id="top">
+    
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- Top Background Image Wrapper -->
+<div class="bgded" style="background-image:url('puri.jpg');">
+    <marquee behavior="alternate" scrollamount="8.2px"><font color="#00036A "><h1>Temple city gains it's name as :- Chakra kshetra</h1>
+        </font></marquee>
+        <marquee behavior="alternate" direction="right" scrollamount="9.8px"><font color="white"><h1>Puri gains it's name as :- Shankha kshetra</h1>
+        </font></marquee>
+  <!-- ################################################################################################ -->
+  <div id="pageintro" class="hoc clear"> 
+    <!-- ################################################################################################ -->
+      
+      <article>
+        
+          <p><font color="#F100003">Shree Kshetra Dhama</font></p>
+      <h3 class="heading">Lord Jagannath Temple</h3>
+     
+    </article>
+    <!-- ################################################################################################ -->
+  </div>
+  <!-- ################################################################################################ -->
+  <!-- ################################################################################################ -->
+  <!-- ################################################################################################ -->
+  <div class="wrapper row1">
+    <header id="header" class="hoc clear"> 
+      <!-- ################################################################################################ -->
+      <div id="logo" class="fl_left">
+        <h1><a href="index.html">PURI</a></h1>
+        <p>odisha</p>
+      </div>
+      <div id="quickinfo" class="fl_right">
+        <ul class="nospace inline">
+          <li><strong>Contact US:</strong><br>
+         <li><strong>ARUN KUMAR ROUT</strong><br>
+            +91 (904) 0453577</li>
+          <li><strong>Help Line :</strong><br>
+            +91(904) 3545652</li>
+        </ul>
+      </div>
+      <!-- ################################################################################################ -->
+    </header>
+    <nav id="mainav" class="hoc clear"> 
+      <!-- ################################################################################################ -->
+      <ul class="clear">
+        <li class="active"><a href="index.html">Home</a></li>
+          <li><a class="drop" href="pages/gallery.html">Gallery</a></li>
+         <li><a class="drop" href="pages/video.html">Videos</a></li>
+        <li><a href="pages/festival.html">OUR Festivals</a></li>
+          <li><a href="pages/tourism.html">TOURISM AREA</a></li>
+      </ul>
+      <!-- ################################################################################################ -->
+    </nav>
+  </div>
+  <!-- ################################################################################################ -->
+</div>
+<!-- End Top Background Image Wrapper -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row2">
+  <section class="hoc container clear"> 
+    <!-- ################################################################################################ -->
+    <div class="sectiontitle">
+      <h6 class="heading">Chariot Festival</h6>
+      <p>Chariots of Lord Shri Jagannath .</p>
+    </div>
+    <div class="group">
+      <div class="one_half first">
+        <p>Ratha Yatra is a Hindu festival associated with Lord Jagannath held at Puri in the state of Odisha, India. It is the oldest Ratha Yatra taking place in India and the World, whose descriptions can be found in Brahma Purana, Padma Purana, and Skanda Purana and Kapila Samhita.</p>
+        <p class="btmspace-50">Lord Jagannatha's chariot is called Nandighosa. It is forty-five feet high and forty-five feet square at the wheel level. It has sixteen wheels, each of seven-foot diameter, and is decked with a cover made of red and yellow cloth.</p>
+          
+          <p class="btmspace-50"> The chariot of Lord Balarama, called the Taladhwaja, is the one with the Palm Tree on its flag. It has fourteen wheels, each of seven-foot diameter and is covered with red and green cloth. Its height is forty-four feet.</p>
+          
+          <p>The chariot of Subhadra, known as Dwarpadalana, literally "trampler of pride," is forty-three feet high with twelve wheels, each of seven-foot diameter. This chariot is decked with a covering of red and black cloth – black being traditionally associated with Shakti and the Mother Goddess.</p>
+          </div>
+      <div class="one_half"><img class="inspace-10 borderedbox" src="images/demo/car.jpg" alt=""></div>
+    </div>
+    <!-- ################################################################################################ -->
+  </section>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper bgded overlay" style="background-image:url('images/demo/backgrounds/nabakalebara.jpg');">
+  <section class="hoc container clear"> 
+    <!-- ################################################################################################ -->
+    <div class="sectiontitle">
+      <h6 class="heading">NABAKALEBARA</h6>
+      <p>The leaving of the old Deity and the Consecration of the New.</p>
+    </div>
+      <p>The year of Nabakalebara is when the full moon occurs twice during the month of Ashadha. Every three years in the Hindu calendar, a lunar month is excluded from the calculation to maintain a balance between lunar and solar years. This period is called Adhikmasa or Malamasa. A year with an extra month (अधिकमास or मलमास or पुरुषोत्तममास )is considered auspicious for the ceremony, which typically occurs every twelve to nineteen years. The three deities undergo the process of Nabakalebara in the year in which the adhikmasa falls. The deities are carved from a special type of neem wood, known as daru bramha. Preparations for the ceremony begin in the month of Chaitra. The most recent ceremony was in 2015, 19 years after the 1996 ceremony. Over three million devotees were expected to visit the temple during the Nabakalebara 2015.</p>
+<p>Jirna bera parityaga (Odia: ଜୀର୍ଣ୍ଣବେର ପରିତ୍ୟାଗ) means "the leaving of the old deity and the consecration of the new". As a person puts on new garments and gives up the old, the soul accepts new material bodies and gives up old, useless ones. According to temple rituals, the deities are changed. Made from the neem tree, musk, sandalwood and other combinations, they undergo a change before the adhika ashadha ends. Agama shastras followed in other parts of India for Vishnu worship, such as the Vaikhanasas, also prescribe the change of wooden deities under a specific astrological combination. Deities made of stone or metal do not need to be changed (unless they are damaged), but wooden deities must be changed within a specific number of years and their power must be ritually transferred. Nabakalebar is about the transformation of the Puri temple and Odisha lords into a new body. The new wooden idols of Jagannath, Balabhadra, Subhadra and Sudarshan are welcomed to the temple in celebration. The old idols are ritually buried in Koili Baikuntha in accordance with century-old Odia scriptures.</p>
+    <!-- ################################################################################################ -->
+  </section>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row3">
+  <section class="hoc container clear"> 
+    <!-- ################################################################################################ -->
+    <div class="sectiontitle">
+      <h6 class="heading">Triangle of Odisha</h6>
+    </div>
+    <div class="group latest">
+      <article class="one_third first">
+        <figure><a class="imgover" href="https://www.nativeplanet.com/travel-guide/places-visit-bhubaneswar-odisha/articlecontent-pf4442-000741.html"><img src="images/demo/Lingaraj.jpg" alt=""></a></figure>
+        <h4 class="heading">LINGRAJ TEMPLE</h4>
+        
+        <p>The Lingaraja temple is the largest temple in Bhubaneswar. The central tower of the temple is 180 ft (55 m) tall. The temple represents the quintessence of the Kalinga architecture and culminating the medieval stages of the architectural tradition at Bhubaneswar. [&hellip;]</p>
+        <footer><a href="https://www.culturalindia.net/indian-temples/lingaraj-temple.html">Read More</a></footer>
+      </article>
+      <article class="one_third">
+        <figure><a class="imgover" href="https://konarkfestival.com/"><img src="images/demo/konark.jpg" alt=""></a></figure>
+        <h4 class="heading">KONARK(sun temple)</h4>
+        
+        <p>Konark TempleKonark Temple is the most popular and major attraction of Konark in Orissa. Konark is located at an approximate distance of 65 kms from Bhubaneshwar and 35 kms from Puri. [&hellip;]</p>
+        <footer><a href="https://www.culturalindia.net/indian-temples/konark-temple.html">Read More</a></footer>
+      </article>
+      <article class="one_third">
+        <figure><a class="imgover" href="https://www.tripsavvy.com/puri-rath-yatra-festival-essential-guide-1539254"><img src="images/demo/puri.jpg" alt=""></a></figure>
+        <h4 class="heading">JAGANNATH TEMPLE</h4>
+        
+        <p>Puri is located on the eastern side of India in the province of Orissa. Lying on the coastal strip in the Puri district, the destination is 60 kilometre from the city of Bhubaneswar.  [&hellip;]</p>
+        <footer><a href="https://www.orissatourism.org/puri-city.html">Read More</a></footer>
+      </article>
+    </div>
+    <!-- ################################################################################################ -->
+  </section>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row4 bgded overlay" style="background-image:url('images/demo/backgrounds/nama.jpg');">
+  <footer id="footer" class="hoc clear"> 
+    <!-- ################################################################################################ -->
+    <div class="one_third first">
+      <h6 class="heading">ADDRESS</h6>
+      <ul class="nospace btmspace-30 linklist contact">
+        <li><i class="fa fa-map-marker"></i>
+          <address>
+          LIngraj Temple &amp; OLd Town, Bhubaneswar,ODISHA,INDIA PIN-751002
+          </address>
+        </li>
+        <li><i class="fa fa-phone"></i> +91 (904) 0453577 </li>
+        <li><i class="fa fa-fax"></i> +91 (904) 3545652</li>
+        <li><i class="fa fa-envelope-o"></i> arunrout76@gmail.com</li>
+      </ul>
+    </div>
+    <div class="one_third">
+      <h6 class="heading">अतिथि देवो भव (GUESTS ARE OUR GOD)</h6>
+      <p class="nospace btmspace-30"> THANK U (NAMASKAR)</p>
+      
+    </div>
+    <div class="one_third">
+      <h6 class="heading">SOPHISTICATED GROUP</h6>
+      <ul class="nospace linklist">
+        <li>
+          <article>
+            <h2 class="nospace font-x1"><a href="#">KG YOUTH ORGANIZATION</a></h2>
+            <time class="font-xs block btmspace-10" datetime="2012-12-12">WEDNESDAY, 12<sup>th</sup> DEC 2012</time>
+            <p class="nospace">Be Happy Make oters Happy</p>
+          </article>
+        </li>
+        <li>
+          <article>
+            <h2 class="nospace font-x1"><a href="#">ARUN KUMAR ROUT</a></h2>
+            <time class="font-xs block btmspace-10" datetime="2012-12-12">WEDNESDAY, 12<sup>th</sup> DECEMBER 2012</time>
+            <p class="nospace">Welcome to our Templecity,BHUBANESWAR</p>
+          </article>
+        </li>
+      </ul>
+    </div>
+    <!-- ################################################################################################ -->
+  </footer>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row5">
+  <div id="copyright" class="hoc clear"> 
+    <!-- ################################################################################################ -->
+    <p class="fl_left">Copyright &copy; 2019 - All Rights Reserved - <a href="#">www.kalinga.ga</a></p>
+    <p class="fl_right">made by:- <a target="_blank" href="https://www.kalinga.ga" title="our adorable odisha">ARUN KUMAR ROUT</a></p>
+    <!-- ################################################################################################ -->
+  </div>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<a id="backtotop" href="#top"><i class="fa fa-chevron-up"></i></a>
+<!-- JAVASCRIPTS -->
+<script src="layout/scripts/jquery.min.js"></script>
+<script src="layout/scripts/jquery.backtotop.js"></script>
+<script src="layout/scripts/jquery.mobilemenu.js"></script>
+</body>
+</html>
